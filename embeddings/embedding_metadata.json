@@ -1,0 +1,16 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "dataset_file": "data/dataset.json",
+  "dataset_sha256": "ccf9d345d858284440162edde0b325db108c03b7ca9e73e5c1aed60e481c4dc9",
+  "embedding_shape": [
+    40,
+    384
+  ],
+  "embedding_dimensions": 384,
+  "normalized_embeddings": true,
+  "text_fields": [
+    "question",
+    "answer",
+    "category"
+  ]
+}

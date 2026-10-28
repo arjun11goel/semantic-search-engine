@@ -1,0 +1,242 @@
+[
+  {
+    "id": "FAQ001",
+    "category": "Accounts",
+    "question": "How do I reset a forgotten account password?",
+    "answer": "Open the account sign-in page, choose the password recovery option, and follow the verification link sent to your registered email address. Create a new, unique password when prompted."
+  },
+  {
+    "id": "FAQ002",
+    "category": "Accounts",
+    "question": "What should I do if my account is locked?",
+    "answer": "Wait for any temporary security lock to expire, then use the official account recovery process. If access is still blocked, contact the service administrator and never share your password."
+  },
+  {
+    "id": "FAQ003",
+    "category": "Accounts",
+    "question": "How can I enable two-factor authentication?",
+    "answer": "Open your account security settings and enable two-step verification. Register an authenticator app or another supported second factor, then save recovery codes somewhere secure."
+  },
+  {
+    "id": "FAQ004",
+    "category": "Accounts",
+    "question": "How do I change the email address on my profile?",
+    "answer": "Visit profile settings, edit the contact email field, and complete the confirmation step sent to the new address. You may need to re-enter your password first."
+  },
+  {
+    "id": "FAQ005",
+    "category": "Accounts",
+    "question": "How can I sign out of my account on another device?",
+    "answer": "Open the security or active sessions page, review logged-in devices, and revoke any session you no longer use or do not recognize. Change your password if a device seems suspicious."
+  },
+  {
+    "id": "FAQ006",
+    "category": "Networking",
+    "question": "How do I connect to the campus Wi-Fi network?",
+    "answer": "Open the network settings, select the university wireless service, and authenticate using the credentials provided by the institution. Accept the official certificate only when instructed by campus IT."
+  },
+  {
+    "id": "FAQ007",
+    "category": "Networking",
+    "question": "What can I try when the wireless network is slow?",
+    "answer": "Move closer to an access point, pause large downloads, disconnect unused devices, and reconnect to the approved network. If the problem affects many users, report it to the network team."
+  },
+  {
+    "id": "FAQ008",
+    "category": "Networking",
+    "question": "How do I update the password for a saved Wi-Fi network?",
+    "answer": "Forget or remove the saved network in your device settings, select it again, and enter the current network credential. Check with the network owner if you do not know the new credential."
+  },
+  {
+    "id": "FAQ009",
+    "category": "Networking",
+    "question": "Why does a website work on mobile data but not on Wi-Fi?",
+    "answer": "The local network may have a DNS, filtering, or router configuration issue. Restart the router if it is yours, test another website, and contact the network administrator before changing managed settings."
+  },
+  {
+    "id": "FAQ010",
+    "category": "Networking",
+    "question": "When should I use a virtual private network?",
+    "answer": "Use the organization-approved VPN when accessing internal resources from outside its network. Install the official client and follow IT policy; a VPN does not make every online activity automatically safe."
+  },
+  {
+    "id": "FAQ011",
+    "category": "Battery and Power",
+    "question": "Why does a laptop battery run out sooner than expected?",
+    "answer": "Lower display brightness, close energy-intensive applications, disable unused radios, and review battery health in system settings. An older battery may hold less energy and need professional replacement."
+  },
+  {
+    "id": "FAQ012",
+    "category": "Battery and Power",
+    "question": "What should I do if my laptop becomes unusually hot?",
+    "answer": "Place the computer on a hard, flat surface, keep ventilation openings clear, and close demanding tasks. Shut it down if heat is extreme or there is a burning smell, then seek qualified support."
+  },
+  {
+    "id": "FAQ013",
+    "category": "Performance",
+    "question": "Why does my computer start slowly?",
+    "answer": "Disable unnecessary startup applications, maintain free disk space, install reliable system updates, and check for disk or malware issues. A mechanical drive or limited memory can also affect startup time."
+  },
+  {
+    "id": "FAQ014",
+    "category": "Performance",
+    "question": "What can I do when an application repeatedly freezes?",
+    "answer": "Save work if possible, close and reopen the application, install updates, and check whether other programs are consuming system resources. Repeated hangs may require reinstalling the app or reviewing system logs."
+  },
+  {
+    "id": "FAQ015",
+    "category": "Performance",
+    "question": "How can I free up disk space?",
+    "answer": "Remove temporary files using the operating system's storage tool, uninstall software you no longer need, and move large personal files to a trusted backup location. Review files before deleting them permanently."
+  },
+  {
+    "id": "FAQ016",
+    "category": "Performance",
+    "question": "Why does my program close unexpectedly?",
+    "answer": "Install the latest stable version, restart the device, and check for error messages or incompatible extensions. If the issue continues, note the steps that trigger it and consult the software support team."
+  },
+  {
+    "id": "FAQ017",
+    "category": "Files",
+    "question": "How can I restore a deleted file?",
+    "answer": "Check the Recycle Bin or Trash and use the restore action if the item is there. If it is absent, inspect version history or a backup before installing recovery software or writing more data to the drive."
+  },
+  {
+    "id": "FAQ018",
+    "category": "Files",
+    "question": "How can I recover edits from a document that closed without saving?",
+    "answer": "Reopen the application and look for its document recovery or autosave panel. Check the application's recovery folder and cloud version history. Recovery is not guaranteed if no temporary copy was created."
+  },
+  {
+    "id": "FAQ019",
+    "category": "Files",
+    "question": "How do I sync files across my devices?",
+    "answer": "Sign in to the same trusted cloud storage account on each device, select the folders to synchronize, and wait for the upload and download indicators to finish. Avoid editing the same file offline on multiple devices."
+  },
+  {
+    "id": "FAQ020",
+    "category": "Files",
+    "question": "How should I back up important documents?",
+    "answer": "Keep at least one additional copy on a separate drive or reputable cloud service. Verify that files can be restored and protect backups with strong account security."
+  },
+  {
+    "id": "FAQ021",
+    "category": "Printing",
+    "question": "Why is my printer not printing anything?",
+    "answer": "Confirm that the printer has power and paper, inspect its status, and check the connection. Clear stuck jobs from the print queue and select the correct printer in the application."
+  },
+  {
+    "id": "FAQ022",
+    "category": "Printing",
+    "question": "How do I print a document as a PDF?",
+    "answer": "Open the print dialog and choose the operating system's PDF printer or a save-to-PDF option. Select the destination and review page size and orientation before saving."
+  },
+  {
+    "id": "FAQ023",
+    "category": "Meetings",
+    "question": "How do I fix a microphone that cannot be heard in a meeting?",
+    "answer": "Select the correct input device in the meeting app and operating system, unmute the microphone, and grant microphone permission. Test the device in another app and reconnect it if needed."
+  },
+  {
+    "id": "FAQ024",
+    "category": "Meetings",
+    "question": "Why can other people not see my webcam video?",
+    "answer": "Choose the correct camera in the meeting settings, check the physical privacy shutter, and grant camera permission to the application. Close other programs that may already be using the camera."
+  },
+  {
+    "id": "FAQ025",
+    "category": "Meetings",
+    "question": "How do I share my screen during an online class?",
+    "answer": "Use the meeting application's share button, choose the desired window or entire display, and confirm the selection. Close private material first and stop sharing when the presentation is finished."
+  },
+  {
+    "id": "FAQ026",
+    "category": "Audio",
+    "question": "Why is there no sound from my computer?",
+    "answer": "Check the volume level and mute state, select the intended output device, and inspect headphones or speaker connections. Run the system audio troubleshooter and restart the application if necessary."
+  },
+  {
+    "id": "FAQ027",
+    "category": "Web Browsing",
+    "question": "How do I clear a browser's cached files?",
+    "answer": "Open the browser privacy settings, choose the option for clearing browsing data, select cached images and files, and confirm. Clearing cookies as well may sign you out of websites."
+  },
+  {
+    "id": "FAQ028",
+    "category": "Email",
+    "question": "Why will an email attachment not upload?",
+    "answer": "Check the service's file-size limit, confirm your connection is stable, and use a supported file format. For a large file, share a trusted cloud link with the intended recipient instead."
+  },
+  {
+    "id": "FAQ029",
+    "category": "Email",
+    "question": "How can I recognize a phishing email?",
+    "answer": "Be cautious of urgent demands, unexpected attachments, unusual sender addresses, and links that ask for credentials. Visit the service directly instead of following suspicious links and report the message to IT."
+  },
+  {
+    "id": "FAQ030",
+    "category": "Software Installation",
+    "question": "How do I install software safely on my computer?",
+    "answer": "Download installers from the developer's official site or an approved application store, review requested permissions, and avoid unknown bundled programs. Ask your administrator before installing software on a managed device."
+  },
+  {
+    "id": "FAQ031",
+    "category": "Python",
+    "question": "What does a ModuleNotFoundError mean in Python?",
+    "answer": "Python cannot find a module in the environment running your script. Activate the correct virtual environment, install the missing package there, and confirm that your editor uses the same interpreter."
+  },
+  {
+    "id": "FAQ032",
+    "category": "Python",
+    "question": "How do I create and activate a Python virtual environment on Windows?",
+    "answer": "Run `py -m venv .venv` in the project directory, then activate it in PowerShell with ` .\\.venv\\Scripts\\Activate.ps1 `. Install project dependencies after activation."
+  },
+  {
+    "id": "FAQ033",
+    "category": "Git",
+    "question": "Why does Git say this folder is not a repository?",
+    "answer": "The current directory may not contain a `.git` folder. Move into the intended project directory, check the path with `Get-Location`, and run `git status` again. Initialize or clone a repository only when appropriate."
+  },
+  {
+    "id": "FAQ034",
+    "category": "Git",
+    "question": "How do I upload local commits to GitHub?",
+    "answer": "Check the configured remote with `git remote -v`, commit the intended changes, and push the current branch to the correct remote. Resolve any rejected or conflicting updates before retrying."
+  },
+  {
+    "id": "FAQ035",
+    "category": "Accessibility",
+    "question": "How can I make text easier to read on my display?",
+    "answer": "Increase text scaling or system magnification, use a comfortable display resolution, and adjust contrast or color settings to suit your needs. Many applications also provide their own font-size controls."
+  },
+  {
+    "id": "FAQ036",
+    "category": "Accessibility",
+    "question": "How do I turn on the screen reader?",
+    "answer": "Open the operating system's accessibility settings and enable its built-in screen reader. Review its keyboard shortcuts and speech settings, and use official support guidance if you need a different assistive tool."
+  },
+  {
+    "id": "FAQ037",
+    "category": "Time and Updates",
+    "question": "Why does my computer show the wrong date or time?",
+    "answer": "Enable automatic time and time-zone settings, check the internet connection, and synchronize the system clock. On a managed device, contact the administrator if the settings cannot be changed."
+  },
+  {
+    "id": "FAQ038",
+    "category": "Security",
+    "question": "What should I do if I suspect malware on my device?",
+    "answer": "Disconnect from untrusted networks if necessary, run a scan with reputable security software, install security updates, and change important passwords from a trusted device if credentials may be exposed. Seek IT support for a managed computer."
+  },
+  {
+    "id": "FAQ039",
+    "category": "Storage",
+    "question": "How can I safely eject a USB drive?",
+    "answer": "Close files using the drive and choose the operating system's eject or safely remove option. Wait for confirmation before physically disconnecting the device to reduce the risk of data corruption."
+  },
+  {
+    "id": "FAQ040",
+    "category": "Updates",
+    "question": "How do I check for operating system updates?",
+    "answer": "Open the system update settings, check for available updates, and install them when convenient. Save your work first and restart if requested; on managed devices, follow the organization's update policy."
+  }
+]
